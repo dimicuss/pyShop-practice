@@ -1,0 +1,11 @@
+.testBody {
+    width: 300px;
+    margin: 155px auto;
+}
+
+.success {
+    color: green;
+}
+.failure {
+    color: red;
+}
